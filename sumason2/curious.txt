@@ -7,3 +7,4 @@ description:Thanks u/sumason2.
 // Item Name
 //notes:sumason2 (PvE): "Text" Recommended MW: Reload Speed.|tags:pve,mkb,controller
 dimwishlist:item=3612142623&perks=1840239774,1087426260,1955165503,124408337
+dimwishlist:item=1019000888&perks=1467527085,1431678320,1583705720,47981717
