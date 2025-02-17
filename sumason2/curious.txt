@@ -22,3 +22,13 @@ dimwishlist:item=1183116657&perks=202670084,1687452232,3643424744,1427256713,426
 
 // Stay Frosty
 dimwishlist:item=1123433952&perks=202670084,3142289711,1955165503,124408337,4264904777
+
+//***************************//
+// Heresy World Drop Weapons //
+//***************************//
+
+// Admetus-D Void Scout Rifle World Drop
+//notes:sumason2 (PvE): "Admetus-D Void Scout rifle that void debuffs when aiming down sights... then triggers an overshield upon kill of a void debuffed target.
+dimwishlist:item=3776430252&perks=1392496348,1885400500,776531651,1134488199
+dimwishlist:item=3776430252&perks=202670084,1968497646,776531651,1134488199
+dimwishlist:item=3776430252&perks=1482024992,1885400500,776531651,1134488199
